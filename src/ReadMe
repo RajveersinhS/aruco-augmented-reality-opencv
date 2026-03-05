@@ -1,0 +1,59 @@
+
+The program will:
+
+1. Detect ArUco markers in the input image.
+2. Compute the homography transformation.
+3. Warp the poster image.
+4. Blend the poster with the original image.
+5. Generate an augmented reality output.
+
+---
+
+## Technologies Used
+
+- Python
+- OpenCV
+- NumPy
+- ArUco Marker Detection
+- Homography Transformation
+- Perspective Warping
+
+---
+
+## Applications
+
+Marker-based augmented reality systems like this are commonly used in:
+
+- Augmented Reality applications
+- Advertising and marketing displays
+- Interactive educational tools
+- Robotics and vision-based localization
+- AR gaming systems
+
+---
+
+## Course Information
+
+Course: **Computer Vision**
+
+University: **Ravensburg-Weingarten University of Applied Sciences**
+
+Instructor: **Prof. Dr. Stefan Elser**
+
+---
+
+## Authors
+
+**Hardikkumar Rathwa**  
+Master's in Mechatronics Engineering  
+Ravensburg-Weingarten University of Applied Sciences
+
+**Rajveersinh Suratiya**  
+Master's in Electrical Engineering and Embedded Systems  
+Ravensburg-Weingarten University of Applied Sciences
+
+---
+
+## License
+
+This project is provided for **educational and research purposes**.
