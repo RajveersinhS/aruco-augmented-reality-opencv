@@ -55,7 +55,7 @@ This results in a **natural-looking augmented poster embedded in the environment
 
 | Input Image | AR Output |
 |-------------|-----------|
-| ![](assets/sample_inputs/input1.jpg) | ![](results/sample_outputs/output1.jpg) |
+| ![](https://github.com/RajveersinhS/aruco-augmented-reality-opencv/blob/main/Assets/Image_1.jpg) | ![](results/sample_outputs/output1.jpg) |
 
 *(Replace these images with your own examples from the results folder.)*
 
