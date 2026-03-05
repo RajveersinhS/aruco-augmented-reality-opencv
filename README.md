@@ -86,4 +86,4 @@ aruco-augmented-reality-opencv
 
 ## Installation
 
-Clone the repository:
+Clone the repository: https://github.com/RajveersinhS/aruco-augmented-reality-opencv.git
