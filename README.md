@@ -55,7 +55,7 @@ This results in a **natural-looking augmented poster embedded in the environment
 
 | Input Image | AR Output |
 |-------------|-----------|
-| ![](https://github.com/RajveersinhS/aruco-augmented-reality-opencv/blob/main/Assets/Image_1.jpg) | ![]([results/sample_outputs/output1.jpg](https://github.com/RajveersinhS/aruco-augmented-reality-opencv/blob/main/Results/result_image_Image_1.jpg)) |
+| ![](https://github.com/RajveersinhS/aruco-augmented-reality-opencv/blob/main/Assets/Image_1.jpg) | ![](https://github.com/RajveersinhS/aruco-augmented-reality-opencv/blob/main/Results/result_image_Image_1.jpg) |
 
 
 
