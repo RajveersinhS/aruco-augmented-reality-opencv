@@ -80,3 +80,10 @@ aruco-augmented-reality-opencv
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+
+---
+
+## Installation
+
+Clone the repository:
